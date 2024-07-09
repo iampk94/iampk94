@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pradheepkkumar R
-- 👀 I’m interested in web development
+- 👀 I’m interested in FrontEnd Development / Web Development
 - 🌱 I’m currently learning Redux and Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pradheepkumarcit@outlook.com
