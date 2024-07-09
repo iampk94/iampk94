@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iampk94
+- 👋 Hi, I’m Pradheepkkumar R
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Redux and Typescript
 - 💞️ I’m looking to collaborate on ...
